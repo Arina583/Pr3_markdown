@@ -40,4 +40,4 @@
 Клик по изображению открывает сайт генератора документации:
 
 
-[![Логотип Docsify в ссылке](https://docsify.js.org/_media/icon.svg)](https://docsify.js.org)
+[!res/2026-11-05_31-51.png](https://docsify.js.org)
