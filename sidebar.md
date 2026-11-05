@@ -1,0 +1,10 @@
+- Начало
+  - [О приложении](/)
+- Руководство
+  - [Установка](guide/installation.md)
+  - [Первый маршрут](guide/quickstart.md)
+  - [Демонстрация разметки](guide/demo.md)
+  - [FAQ](guide/advanced/faq.md)
+- API
+  - [Обзор API](api/overview.md)
+  - [Список методов](api/endpoints.md)
